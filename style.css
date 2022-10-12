@@ -55,14 +55,14 @@
 
 main{
     display: flex;
-    width: 10vw;
+    width: auto;
     flex-direction: row;
     background-color: rgb(255, 255, 255);
     flex: 1;
     
 }
 main .Content{
-width: auto;
+    width: 100%;
 
 
 
@@ -79,11 +79,11 @@ html{
     height: 100%;
     width: 100%;
 }
-.menu{
-background: #000;
-height: 75px;
-width: 100px;
-padding: 20px 50px;
-color: blue;
 
+.menu{
+    background: #000;
+    height: 75px;
+    width: 100px;
+    padding: 20px 50px;
+    color: blue;
 }
