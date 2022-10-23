@@ -38,16 +38,6 @@
     display: flex;
 }
 .futer{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-
-
-    padding: 20px 50px;
-    color: blue;
-    height: min-content;
-    width: auto;
-    background: rgb(0, 255, 51);
 
 
 
